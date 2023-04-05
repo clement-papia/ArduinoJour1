@@ -1,0 +1,10 @@
+Pour calculer la valeur de la résistance on utilise la loi d'Ohm qui est une formule pour calculer la relation entre la tension, l'intensité et la résistance dans un circuit électrique.
+E = I x R où E est le voltage (force éléctromotrice), I est l'intensité, et R la résistance.
+Si :
+   E = I x R
+<=>E/I = (I x R) / I
+<=>E/I = R
+<=>R = E/I
+<=>R = 3/0.010
+<=>R = 3*100
+<=>R = 300Ω
